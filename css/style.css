@@ -1047,7 +1047,6 @@ nav {
   min-height: 730px;
   background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)),
     url(../img/my-img/pc.jpg) no-repeat top center;
-  /* background: url(../img/bg-img/bg-3.png) no-repeat top center; */
   background-size: cover;
   display: flex;
   justify-content: center;
@@ -1061,7 +1060,7 @@ nav {
   padding-top: 100px;
   padding-bottom: 365px;
   background-color: #446beb;
-  background-image: url(../img/svg/fullwidth-header.html);
+  /* background-image: url(../img/svg/fullwidth-header.html); */
   background-position: 58% 100%;
   background-size: 1200px;
   background-repeat: no-repeat;
