@@ -1045,7 +1045,9 @@ nav {
 .hero-section.de-3 {
   position: relative;
   min-height: 730px;
-  background: url(../img/bg-img/bg-3.png) no-repeat top center;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)),
+    url(../img/my-img/pc.jpg) no-repeat top center;
+  /* background: url(../img/bg-img/bg-3.png) no-repeat top center; */
   background-size: cover;
   display: flex;
   justify-content: center;
